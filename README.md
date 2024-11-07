@@ -9,9 +9,11 @@ A Full Stack Developer with a knack for the MERN stack, machine learning, and cr
 - 🔹 Currently researching Machine Learning in IT
 
 ## 🛠️ Skills
+## 🛠️ Skills
 - **Frontend**: React.js, Material UI, TailwindCSS
 - **Backend**: Node.js, Express.js, Socket.io (for real-time updates)
-- **Database**: MongoDB, SQLite3,MySQL
+- **Database**: MongoDB, SQLite3
+- **Core Programming**: Data Structures and Algorithms, Object-Oriented Programming
 - **Other**: JWT Authentication, Git version control
 
 ## 📂 Key Projects
