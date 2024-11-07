@@ -1,5 +1,6 @@
 
-#👋 Hi there, I'm Dipesh Agarwal👋
+👋 <h1 align="center"><strong>Hi there, I'm Dipesh Agarwal👋!</strong></h1>
+
 
 A Full Stack Developer with a knack for the MERN stack, machine learning, and creating impactful tech solutions. 
 
