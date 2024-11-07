@@ -1,17 +1,17 @@
 
-👋 <h1 align="center"><strong>Hi there, I'm Dipesh Agarwal👋!</strong></h1>
+<h1 align="center"><strong>Hi there, I'm Dipesh Agarwal👋!</strong></h1>
 
 
 A Full Stack Developer with a knack for the MERN stack, machine learning, and creating impactful tech solutions. 
 
 ## 🚀 About Me
 - 🔹 Full Stack MERN Developer | Passionate about building scalable applications
-- 🔹 Currently researching,Machine Learning in IT
+- 🔹 Currently researching Machine Learning in IT
 
 ## 🛠️ Skills
 - **Frontend**: React.js, Material UI, TailwindCSS
 - **Backend**: Node.js, Express.js, Socket.io (for real-time updates)
-- **Database**: MongoDB, SQLite3
+- **Database**: MongoDB, SQLite3,MySQL
 - **Other**: JWT Authentication, Git version control
 
 ## 📂 Key Projects
@@ -22,7 +22,7 @@ A Full Stack Developer with a knack for the MERN stack, machine learning, and cr
 Working on **E-Commerce Recommendation Systems** and exploring **Machine Learning's impact on IT**.
 
 ## 📬 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dipesh-agarwal-b866b3245/)
 - **GitHub**: Follow for updates!
 
 Thanks for visiting my profile! 🌟
