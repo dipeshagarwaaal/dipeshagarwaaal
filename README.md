@@ -8,7 +8,7 @@ A Full Stack Developer with a knack for the MERN stack, machine learning, and cr
 - 🔹 Full Stack MERN Developer | Passionate about building scalable applications
 - 🔹 Currently researching Machine Learning in IT
 
-## 🛠️ Skills
+ 
 ## 🛠️ Skills
 - **Frontend**: React.js, Material UI, TailwindCSS
 - **Backend**: Node.js, Express.js, Socket.io (for real-time updates)
